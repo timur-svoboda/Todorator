@@ -1,0 +1,43 @@
+.Popup-overlay {
+  padding: 15px;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 100;
+  background-color: rgba(39, 39, 39, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+}
+
+.Popup {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 500px;
+  background-color: #f7f7f7;
+  border-radius: 4px;
+  padding: 15px;
+}
+
+.Popup-header {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 28px;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+.Popup-main {
+  margin-bottom: 30px;
+}
+
+.Popup-buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.Popup-cancelButton {
+  margin-right: 10px;
+}
