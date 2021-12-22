@@ -1,0 +1,9 @@
+.AddTaskPopup-taskInupt {
+  display: block;
+  margin-top: 10px;
+}
+
+.AddTaskPopup-taskLabel {
+  font-family: "Open Sans", sans-serif;
+  color: #272727;
+}
