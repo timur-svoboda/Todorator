@@ -3,7 +3,7 @@
 Todorator is a simple to-do list app. I made the app for my portfolio
 
 - Run: `npm start`
-- Test: `npm run build`
+- Build: `npm run build`
 
 ## Technology Stack
 
