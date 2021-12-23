@@ -1,0 +1,8 @@
+.AddTaskForm {
+  display: flex;
+  height: 40px;
+}
+
+.AddTaskForm-taskField {
+  margin-right: 10px;
+}
