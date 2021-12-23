@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todorator/static/css/main.5e7b3ef9.css",
+    "main.js": "/Todorator/static/js/main.2e8409f2.js",
+    "static/js/787.72860666.chunk.js": "/Todorator/static/js/787.72860666.chunk.js",
+    "index.html": "/Todorator/index.html",
+    "main.5e7b3ef9.css.map": "/Todorator/static/css/main.5e7b3ef9.css.map",
+    "main.2e8409f2.js.map": "/Todorator/static/js/main.2e8409f2.js.map",
+    "787.72860666.chunk.js.map": "/Todorator/static/js/787.72860666.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e7b3ef9.css",
+    "static/js/main.2e8409f2.js"
+  ]
+}
