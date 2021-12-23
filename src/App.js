@@ -88,8 +88,9 @@ class App extends React.Component {
     this.setState((state) => {
       const tasks = state.tasks.slice();
 
-      const { text, done } = tasks[id];
       const i = tasks.findIndex((task) => task.id === id);
+      const { text, done } = tasks[i];
+
       tasks.splice(i, 1, {
         id,
         text,
