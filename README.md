@@ -5,6 +5,8 @@ Todorator is a simple to-do list app. I made the app for my portfolio
 - Run: `npm start`
 - Build: `npm run build`
 
+You can see the app [here](https://timur-svoboda.github.io/Todorator/).
+
 ## Technology Stack
 
 - [Create React App](https://create-react-app.dev/)
