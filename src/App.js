@@ -15,17 +15,17 @@ class App extends React.Component {
       tasks: [
         {
           id: 0,
-          text: "bla1",
+          text: "Fix #CS274",
           done: false,
         },
         {
           id: 1,
-          text: "bla2",
+          text: "Create an optimization strategy",
           done: false,
         },
         {
           id: 2,
-          text: "bla3",
+          text: "Conduct performance analysis",
           done: true,
         },
       ],
